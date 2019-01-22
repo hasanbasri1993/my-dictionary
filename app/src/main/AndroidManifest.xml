@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.daarululuumlido.mydictionary">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_dictionary"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_dictionary"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity.DictionaryDetailActivity"></activity>
+        <activity android:name=".Activity.DictionaryActivity" />
+        <activity android:name=".Activity.PreloadActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

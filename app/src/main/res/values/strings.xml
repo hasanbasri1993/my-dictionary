@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Dictionary</string>
+    <string name="loaded">loaded</string>
+    <string name="first_run">first_run</string>
+    <string name="ind_ing">Indonesia to Inggris</string>
+    <string name="ing_ind">Inggris to Indoensia</string>
+    <string name="word_sample">You</string>
+    <string name="translate_sample">Kamu, engkau, dirimu</string>
+    <string name="text_loading">Loading</string>
+    <string name="description">Deskripsi</string>
+    <string name="prepare_data_ind_ing">Persiapan data Indonesia to Inggris</string>
+    <string name="prepare_data_ing_indo">Persiapan data Inggris to Indonesia</string>
+    <string name="dictionary">Kamus</string>
+</resources>
